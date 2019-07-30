@@ -6,6 +6,8 @@ public class calc {
 
     	double num1, num2;
         Scanner scanner = new Scanner(System.in);
+        System.out.print("--------------CALCULATOR-----------------");
+
         System.out.print("Enter first number:");
 
         /* We are using data type double so that user
@@ -21,7 +23,7 @@ public class calc {
 
         scanner.close();
         double output;
-
+//      Adding more comments
         switch(operator)
         {
             case '+':
