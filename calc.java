@@ -6,7 +6,7 @@ public class calc {
 
     	double num1, num2;
         Scanner scanner = new Scanner(System.in);
-        System.out.print("--------------CALCULATOR-----------------");
+     //   System.out.print("--------------CALCULATOR-----------------");
 
         System.out.print("Enter first number:");
 
